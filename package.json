@@ -1,0 +1,16 @@
+{
+  "name": "deno-dom",
+  "version": "1.0.0",
+  "description": "An implementation of the browser DOM—primarily for SSR—in Deno. Implemented with Rust, WASM, and obviously, Deno/TypeScript.",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.5.0",
+    "typescript": "^5.2.2",
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  }
+}
